@@ -8,7 +8,7 @@ This project is designed to assist in medical diagnosis based on symptoms provid
 
 Patient Information Input: Collects essential patient information including age, gender, symptoms, cholesterol level, blood pressure, and city of residence.
 
-Disease Prediction: Utilizes machine learning algorithms such as Logistic Regression, Support Vector Machines (SVM), Decision Trees, and Random Forests to predict diseases based on the provided symptoms and patient information.
+Disease Prediction: Utilizes machine learning algorithms such as Logistic Regression, Support Vector Machines (SVM), Decision Trees, and Random Forests Classifier to predict diseases based on the provided symptoms and patient information.
 
 Doctor Recommendation: Recommends doctors specializing in the predicted disease based on the patient's location and the doctor's specialty and availability.
 
