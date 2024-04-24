@@ -16,7 +16,7 @@ Graphical User Interface (GUI): Provides an intuitive GUI for easy interaction w
 
 **Technologies Used**
 
-- Python: Programming language used for the backend logic and algorithms.
+Python: Programming language used for the backend logic and algorithms.
 
 Libraries:
 
