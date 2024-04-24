@@ -48,13 +48,13 @@ Open Jupyter Notebook: Once Anaconda is installed, you can launch Jupyter Notebo
 
 Install all files from the Github repo in your personal computer.
 
-Navigate to Your Notebook: Use the file browser within Jupyter Notebook to navigate to the directory where your final.ipynb file is located.
+Navigate to your Notebook: Use the file browser within Jupyter Notebook to navigate to the directory where your final.ipynb file is located.
 
 Open the Notebook: Click on the final.ipynb file to open it in Jupyter Notebook.
 
-Execute Cells: You can execute the code cells in the notebook one by one by selecting each cell and pressing Shift + Enter. Alternatively, you can run all cells by clicking on "Cell" in the menu bar and selecting "Run All".
+Execute Cells: you can run all cells by clicking on "Cell" in the menu bar and selecting "Run".
 
-Enter Patient Information: Fill in the required patient information including age, gender, symptoms, cholesterol level, blood pressure, and city in the provided fields.
+Enter Patient information: Fill in the required patient information including age, gender, symptoms, cholesterol level, blood pressure, and city in the provided fields.
 
 Submit Information: Click the "Submit" button to process the information.
 
@@ -62,9 +62,9 @@ View Results: The system will display the predicted disease and recommend doctor
 
 **Dataset**
 
-Dataset: The project utilizes a dataset (data.csv) containing symptoms and corresponding diseases for training the machine learning models.
-Doctor Data
-Doctor Information: Doctor data is stored in a separate CSV file (dr_mock_dataset.csv) containing details such as doctors' names, specialties, availability, ratings, and locations.
+Symptom Dataset: The project utilizes a dataset (data.csv) containing symptoms and corresponding diseases for training the machine learning models.
+
+Doctor Dataset: Doctor data is stored in a separate CSV file (doctor.csv) containing details such as doctors' names, specialties, availability, ratings, timings and locations.
 
 **Contributions**
 
