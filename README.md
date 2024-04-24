@@ -19,6 +19,7 @@ Graphical User Interface (GUI): Provides an intuitive GUI for easy interaction w
 Python: Programming language used for the backend logic and algorithms.
 
 Libraries:
+
 pandas: Data manipulation and analysis.
 
 numpy: Mathematical operations and array manipulation.
