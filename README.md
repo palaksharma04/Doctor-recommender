@@ -52,7 +52,7 @@ Navigate to your Notebook: Use the file browser within Jupyter Notebook to navig
 
 Open the Notebook: Click on the final.ipynb file to open it in Jupyter Notebook.
 
-Execute Cells: you can run all cells by clicking on "Cell" in the menu bar and selecting "Run".
+Execute Cells: You can run all cells by clicking on "Cell" in the menu bar and selecting "Run All".
 
 Enter Patient information: Fill in the required patient information including age, gender, symptoms, cholesterol level, blood pressure, and city in the provided fields.
 
