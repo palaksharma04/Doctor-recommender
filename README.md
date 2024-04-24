@@ -17,13 +17,20 @@ Graphical User Interface (GUI): Provides an intuitive GUI for easy interaction w
 **Technologies Used**
 
 Python: Programming language used for the backend logic and algorithms.
+
 Libraries:
 pandas: Data manipulation and analysis.
+
 numpy: Mathematical operations and array manipulation.
+
 matplotlib: Data visualization.
+
 seaborn: Statistical data visualization.
+
 tkinter: GUI toolkit for building the user interface.
+
 Machine Learning:
+
 scikit-learn: Python library for machine learning tasks such as classification and regression.
 
 **How to install and run the project**
